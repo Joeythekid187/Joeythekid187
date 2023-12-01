@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...Turf Club Horse Racing USA
 - 📫 How to reach me ... lowej4004@gmail.com
 
-'# every 24 hrs you receive 500 coins'
-'## every 24 hrs you receive 250 tickets'
-'### every 24 hrs you receive $2.00'
+'every 24 hrs you receive 500 coins'
+'every 24 hrs you receive 250 tickets'
+'every 24 hrs you receive $2.00'
 '*** 500 coins equals 1.00$***'
 'Every 150 horse shoes (hs)'
 '***1st horse to finish receives 30 (hs)'
